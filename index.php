@@ -1,4 +1,7 @@
-<?php
-    echo "Solucionando conflictos";
-?>
-
+<html>
+<head>
+<title>Document</title>
+</head>
+<body>
+</body>
+</html>
